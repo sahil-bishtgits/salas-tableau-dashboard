@@ -27,3 +27,11 @@ Key Columns:
 - Top Products: Shows the best-selling products by category.
 Customer Lifetime Value (CLV): Evaluates the long-term value of customers.
 - Interactive Filters: Allows users to filter data by time, region, product category, and customer segments for more detailed analysis.
+
+  ### 1. Snapshot of Dashboard 
+
+![dashboard_snapo](https://github.com/sahil-bishtgits/salas-tableau-dashboard/blob/main/Screenshot%20(59).png)
+
+  ### 1. Snapshot of Dashboard 
+
+![dashboard_snapo](https://github.com/sahil-bishtgits/salas-tableau-dashboard/blob/main/Screenshot%20(60).png)
